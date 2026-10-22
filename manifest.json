@@ -1,0 +1,6 @@
+{
+  "name": "AccountSwitcher",
+  "description": "保存したトークンでアカウントを切り替える",
+  "authors": [{ "name": "うお" }],
+  "main": "index.js"
+}
